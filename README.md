@@ -32,7 +32,7 @@ During testing, the system correctly analyzed a student's resume focused on **AI
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mansi666/AI-Resume-Analyser
+   git clone https://github.com/mansi-chaudhary-ai/AI-Resume-Analyser
 
 2. **Install dependencies:**
     pip install streamlit plotly PyPDF2 fpdf2 python-dotenv google-generativeai
